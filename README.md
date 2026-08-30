@@ -1,4 +1,5 @@
-![Description](drone_autonomous_00-43_to_01-30.gif)
+
+![Description](drone_without_last_3_seconds.gif)
 
 # Custom Quadcopter — Autonomous Visual Tracking
 
@@ -25,7 +26,7 @@ and at a set distance.
    to validate basic GUIDED-mode velocity control before running the
    full tracking loop.
 
-![Description](drone_without_last_3_seconds.gif)
+![Description](drone_autonomous_00-43_to_01-30.gif)
 
 ## Hardware
 
