@@ -1,3 +1,4 @@
+![Description](drone_autonomous_00-43_to_01-30.gif)
 
 # Custom Quadcopter — Autonomous Visual Tracking
 
@@ -23,6 +24,8 @@ and at a set distance.
 3. **`motion_test.py`** — a minimal takeoff/translate/land script used
    to validate basic GUIDED-mode velocity control before running the
    full tracking loop.
+
+![Description](drone_without_last_3_seconds.gif)
 
 ## Hardware
 
