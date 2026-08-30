@@ -42,9 +42,3 @@ python ball.py --stream          # tune detection, view feed at http://<pi-ip>:8
 python follow.py --dry-run       # print commands without arming/flying
 python follow.py                 # real autonomous flight
 ```
-
-## Status
-
-Working — the drone autonomously tracks and follows a ball in flight
-(yaw + forward following). Project considered complete; further work
-would require replacing the flight controller after a hardware failure.
