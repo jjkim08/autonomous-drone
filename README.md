@@ -1,6 +1,8 @@
 
 ![Description](drone_without_last_3_seconds.gif)
 
+Build process and visible cad: https://jacobkim.ca/drones.html
+
 # Custom Quadcopter — Autonomous Visual Tracking
 
 The vision and flight-control code for a self-built quadcopter that
